@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+}
+
+.vdo1{
+  width: 1500px;
+  position: absolute;
+  margin-top: 30px;
+ 
+
+}
+.true{
+  position: absolute;
+  margin-left: 465px;
+}
+.icon1{
+  margin-top: 222px;
+}
+.icon2{
+  margin-top:auto;
+}
+.done{
+  margin-top : 400px;
+}
+.btn{
+  border: 2px solid;
+  background-color: white;
+    padding: 10px 24px;
+    border-radius: 28px;
+}
+.btn2{
+  border: 2px solid;
+  background-color: white;
+    padding: 10px 23px;
+    border-radius: 28px;
+  margin-left: 550px;
+}
+.say
+{
+  padding: 4px 24px;
+}
+.btn1{
+  border: 2px solid;
+  background-color: white;
+    padding: 10px 24px;
+    border-radius: 28px;
+
+margin-left: 170px;
+}
+.time{
+  background-color: transparent;
+  padding: 40px 145px;
+}
+.say3
+{
+  padding: 5px 103px;
+}
+.say1{
+  padding: 4px 68px;
+  margin-top: 12px;
+
+}
+.lite{
+  line-height: 3;
+}
+.header{
+  line-height: 2;
+}
+.box{
+  margin-left: 114px;
+}
+.image{
+  width: 22px;
+    margin-left: 13px;
+}
+.kite{
+  border: 2px solid gray;
+    padding: 2px;
+    margin: 14px;
+}
+.stop{
+  border: 2px solid orange;
+    border-radius: 160px;
+    padding: 65px;
+
+}
+.hike{
+  border: 2px solid white;
+  width: 500px;
+  margin-left: 62px;
+  height:500px;
+  border-radius: 25px;
+}
+.out{
+  border: 2px solid orange;
+  border-radius: 29px;
+}
+@media (max-width:576px) {
+  .true{
+    position: absolute;
+    margin-left: 0px;
+    font-size: 20px;
+  }
+  .icon1{
+    display: none;
+  }
+  .icon2 {
+    margin-top: 70px;
+    height: 129px;
+}
+.done{
+  margin-top : 20px;
+}
+.btn2{
+  margin-left: 40px;
+}
+
+}
